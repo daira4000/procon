@@ -1,0 +1,12 @@
+{
+	"id": 10865,
+	"epoch_second": 1336646207,
+	"problem_id": "arc002_3",
+	"contest_id": "arc002",
+	"user_id": "daira4000",
+	"language": "Haskell (GHC 7.4.1)",
+	"point": 100,
+	"length": 455,
+	"result": "AC",
+	"execution_time": 105
+}
