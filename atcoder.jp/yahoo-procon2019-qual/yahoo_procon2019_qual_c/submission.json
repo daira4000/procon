@@ -1,0 +1,12 @@
+{
+	"id": 4210265,
+	"epoch_second": 1549714977,
+	"problem_id": "yahoo_procon2019_qual_c",
+	"contest_id": "yahoo-procon2019-qual",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 400,
+	"length": 456,
+	"result": "AC",
+	"execution_time": 93
+}
