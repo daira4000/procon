@@ -1,0 +1,12 @@
+{
+	"id": 4768039,
+	"epoch_second": 1553947906,
+	"problem_id": "exawizards2019_b",
+	"contest_id": "exawizards2019",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 200,
+	"length": 302,
+	"result": "AC",
+	"execution_time": 259
+}
