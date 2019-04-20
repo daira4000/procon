@@ -1,0 +1,12 @@
+{
+	"id": 5042039,
+	"epoch_second": 1555762308,
+	"problem_id": "tenka1_2019_a",
+	"contest_id": "tenka1-2019-beginner",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 100,
+	"length": 991,
+	"result": "AC",
+	"execution_time": 96
+}
