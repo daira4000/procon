@@ -1,0 +1,12 @@
+{
+	"id": 5926150,
+	"epoch_second": 1560602713,
+	"problem_id": "diverta2019_2_c",
+	"contest_id": "diverta2019-2",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 500,
+	"length": 2936,
+	"result": "AC",
+	"execution_time": 779
+}
