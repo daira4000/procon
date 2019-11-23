@@ -1,0 +1,12 @@
+{
+	"id": 8571346,
+	"epoch_second": 1574510540,
+	"problem_id": "ddcc2020_qual_a",
+	"contest_id": "ddcc2020-qual",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 100,
+	"length": 2050,
+	"result": "AC",
+	"execution_time": 75
+}
