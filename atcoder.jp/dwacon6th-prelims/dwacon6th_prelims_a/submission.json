@@ -1,0 +1,12 @@
+{
+	"id": 9419858,
+	"epoch_second": 1578740608,
+	"problem_id": "dwacon6th_prelims_a",
+	"contest_id": "dwacon6th-prelims",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 200,
+	"length": 2251,
+	"result": "AC",
+	"execution_time": 81
+}
