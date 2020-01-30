@@ -1,0 +1,12 @@
+{
+	"id": 9829951,
+	"epoch_second": 1580394521,
+	"problem_id": "sumitb2019_d",
+	"contest_id": "sumitrust2019",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 400,
+	"length": 2488,
+	"result": "AC",
+	"execution_time": 119
+}
