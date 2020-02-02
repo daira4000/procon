@@ -1,0 +1,12 @@
+{
+	"id": 9868502,
+	"epoch_second": 1580626654,
+	"problem_id": "keyence2020_a",
+	"contest_id": "keyence2020",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 100,
+	"length": 1856,
+	"result": "AC",
+	"execution_time": 70
+}
