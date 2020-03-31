@@ -1,0 +1,12 @@
+{
+	"id": 11389488,
+	"epoch_second": 1585642939,
+	"problem_id": "jsc2019_qual_a",
+	"contest_id": "jsc2019-qual",
+	"user_id": "daira4000",
+	"language": "Ruby (2.3.3)",
+	"point": 200,
+	"length": 201,
+	"result": "AC",
+	"execution_time": 8
+}
