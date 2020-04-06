@@ -1,0 +1,12 @@
+{
+	"id": 11622455,
+	"epoch_second": 1586190009,
+	"problem_id": "judge_update_202004_c",
+	"contest_id": "judge-update-202004",
+	"user_id": "daira4000",
+	"language": "Java (OpenJDK 11.0.6)",
+	"point": 300,
+	"length": 2321,
+	"result": "AC",
+	"execution_time": 69
+}
