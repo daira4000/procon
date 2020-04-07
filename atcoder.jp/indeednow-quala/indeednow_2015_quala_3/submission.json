@@ -1,0 +1,12 @@
+{
+	"id": 11649280,
+	"epoch_second": 1586273347,
+	"problem_id": "indeednow_2015_quala_3",
+	"contest_id": "indeednow-quala",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 100,
+	"length": 2563,
+	"result": "AC",
+	"execution_time": 527
+}
