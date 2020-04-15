@@ -1,0 +1,12 @@
+{
+	"id": 11960279,
+	"epoch_second": 1586962260,
+	"problem_id": "pakencamp_2019_day3_c",
+	"contest_id": "pakencamp-2019-day3",
+	"user_id": "daira4000",
+	"language": "Java8 (OpenJDK 1.8.0)",
+	"point": 100,
+	"length": 2621,
+	"result": "AC",
+	"execution_time": 130
+}
