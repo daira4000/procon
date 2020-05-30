@@ -1,0 +1,12 @@
+{
+	"id": 13721702,
+	"epoch_second": 1590840524,
+	"problem_id": "nomura2020_a",
+	"contest_id": "nomura2020",
+	"user_id": "daira4000",
+	"language": "Java (OpenJDK 11.0.6)",
+	"point": 100,
+	"length": 2152,
+	"result": "AC",
+	"execution_time": 84
+}
