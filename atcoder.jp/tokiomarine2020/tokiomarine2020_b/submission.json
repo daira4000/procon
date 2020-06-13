@@ -1,0 +1,12 @@
+{
+	"id": 14224469,
+	"epoch_second": 1592049914,
+	"problem_id": "tokiomarine2020_b",
+	"contest_id": "tokiomarine2020",
+	"user_id": "daira4000",
+	"language": "Java (OpenJDK 11.0.6)",
+	"point": 200,
+	"length": 2022,
+	"result": "AC",
+	"execution_time": 73
+}
