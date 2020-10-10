@@ -1,0 +1,12 @@
+{
+	"id": 17288791,
+	"epoch_second": 1602331302,
+	"problem_id": "hhkb2020_a",
+	"contest_id": "hhkb2020",
+	"user_id": "daira4000",
+	"language": "Java (OpenJDK 11.0.6)",
+	"point": 100,
+	"length": 1693,
+	"result": "AC",
+	"execution_time": 87
+}
